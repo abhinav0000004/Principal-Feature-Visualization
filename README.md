@@ -44,7 +44,7 @@ PFV on various images of Cats| PFV on various Vehicle images
 :-------------------------:|:-------------------------:
 ![](https://github.com/abhinav0000004/Principal-Feature-Visualization/blob/main/Results/Cats.png)  |  ![](https://github.com/abhinav0000004/Principal-Feature-Visualization/blob/main/Results/vehicle.png)
 
-We can cleary see that this technique is able to identify and highlight key features in the images.(Also different colors represent different features.) More results can be found [here](https://github.com/abhinav0000004/Principal-Feature-Visualization/tree/main/Results) .
+We can cleary see that this technique is able to identify and highlight key features in the images. And as observed it is able to identify most of the common objects,vehicles,humans and animals. (Also different colors represent different features.) More results can be found [here](https://github.com/abhinav0000004/Principal-Feature-Visualization/tree/main/Results) .
 
 Apart from different things we tried this technique on various types of CNN models and few outputs are :
 
@@ -54,3 +54,17 @@ PFV on Alexnet| PFV on Wide ResNet
 
 More can be found [here](https://github.com/abhinav0000004/Principal-Feature-Visualization/tree/main/Results/VariousModels) .
 
+**Here are some of unexpected results:**
+
+Model fails to identify objects like table,chair,sofa,etc.
+
+<img src="docs/sam.png" width="480">
+
+Also we tried running the model in Inception networks and here is the result which we got as an output- 
+
+<img src="docs/inception.png" width="480">
+
+## Comparision with Grad Cam 
+
+## The paper
+This method was presented at ECCV 2020. Please see [the full paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680018.pdf) and [supplementary material](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680018-supp.pdf) for more information about our method.
