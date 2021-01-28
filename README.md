@@ -37,3 +37,20 @@ model = models.vgg16(pretrained=True)
 ```
 By default model is vgg16. If you wish to change details can be found [here](https://pytorch.org/docs/stable/torchvision/models.html) .
 
+## Results 
+Here are all the insights which we managed do get during the experiment.
+
+PFV on various images of Cats| PFV on various Vehicle images
+:-------------------------:|:-------------------------:
+![](https://github.com/abhinav0000004/Principal-Feature-Visualization/blob/main/Results/Cats.png)  |  ![](https://github.com/abhinav0000004/Principal-Feature-Visualization/blob/main/Results/vehicle.png)
+
+We can cleary see that this technique is able to identify and highlight key features in the images.(Also different colors represent different features.) More results can be found [here](https://github.com/abhinav0000004/Principal-Feature-Visualization/tree/main/Results) .
+
+Apart from different things we tried this technique on various types of CNN models and few outputs are :
+
+PFV on Alexnet| PFV on Wide ResNet
+:-------------------------:|:-------------------------:
+![](https://github.com/abhinav0000004/Principal-Feature-Visualization/blob/main/Results/VariousModels/alexnet.JPG)  |  ![](https://github.com/abhinav0000004/Principal-Feature-Visualization/blob/main/Results/VariousModels/wide%20resnet.JPG)
+
+More can be found [here](https://github.com/abhinav0000004/Principal-Feature-Visualization/tree/main/Results/VariousModels) .
+
