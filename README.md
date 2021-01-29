@@ -1,8 +1,11 @@
+# Machine Learning Reproducibility Challenge 2020
+The aim of the project is to establish and validate the reproducibility of the work on "Principal Feature Visualisation in Convolutional Neural Networks" by Marianne Bakken, Johannes Kvam, Alexey A. Stepanov, Asbjørn Berge. The work is a part of ECCV 2020. The paper can be found here: https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680018.pdf
+
 # Principal-Feature-Visualization
 Principal feature visualization is a visualization technique for convolutional neural networks that highlights the contrasting features in a batch of images. It produces one RGB heatmap per input image.
 
 <img src="docs/overview_fig.png" width="480">
-
+Credit: Image has been taken from the main paper. 
 ## About the Repo
 This repo contains the following files and folders:
 
