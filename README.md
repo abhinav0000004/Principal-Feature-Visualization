@@ -1,5 +1,6 @@
 # Machine Learning Reproducibility Challenge 2020
-The aim of the project is to establish and validate the reproducibility of the work on "Principal Feature Visualisation in Convolutional Neural Networks" by Marianne Bakken, Johannes Kvam, Alexey A. Stepanov, Asbjørn Berge. The work is a part of ECCV 2020. The paper can be found here: https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680018.pdf
+The aim of the project is to establish and validate the reproducibility of the work on "Principal Feature Visualisation in Convolutional Neural Networks" by Marianne Bakken, Johannes Kvam, Alexey A. Stepanov, Asbjørn Berge. The work is a part of ECCV 2020. The paper can be found here: https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680018.pdf. We(Abhinav Choudhary, Animesh Maheshwari) have attempted to validate the claims of the paper by experimenting with various image classes, pre-trained models and have compared the method stated with the widely used Grad Cam approach. The code for the Grad Cam approach can be found on: https://www.pyimagesearch.com/2020/03/09/grad-cam-visualize-class-activation-maps-with-keras-tensorflow-and-deep-learning/.<br/>
+
 
 # Principal-Feature-Visualization
 Principal feature visualization is a visualization technique for convolutional neural networks that highlights the contrasting features in a batch of images. It produces one RGB heatmap per input image.
