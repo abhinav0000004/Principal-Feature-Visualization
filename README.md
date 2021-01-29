@@ -7,7 +7,9 @@ Principal feature visualization is a visualization technique for convolutional n
 
 <img src="docs/overview_fig.png" width="480">
 Credit: Image has been taken from the main paper. <br/>
+
 ## About the Repo
+
 This repo contains the following files and folders:
 
 - **Grad Cam** folder Contains scripts for running the Grad Cam (another type of Visualization technique) along with the folders where you can put images and view results.
