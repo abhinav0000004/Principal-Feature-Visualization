@@ -85,4 +85,4 @@ We tried running the images on two different visualisation techniques i.e Grad-C
 ## The paper
 This method was presented at ECCV 2020. Please see [the full paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680018.pdf) and [supplementary material](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680018-supp.pdf) for more information about our method.
 
-## Now we are working on converting the pytorch code into TensorFlow in order to understand technique in-depth and to iporve its performance. Any help/collaboration would be appreciated .
+## Now we are working on converting the pytorch code into TensorFlow in order to understand technique in-depth and to imporve its performance. Any help/collaboration would be appreciated .
