@@ -5,7 +5,7 @@ The aim of the project is to establish and validate the reproducibility of the w
 Principal feature visualization is a visualization technique for convolutional neural networks that highlights the contrasting features in a batch of images. It produces one RGB heatmap per input image.
 
 <img src="docs/overview_fig.png" width="480">
-Credit: Image has been taken from the main paper. 
+Credit: Image has been taken from the main paper. <br/>
 ## About the Repo
 This repo contains the following files and folders:
 
