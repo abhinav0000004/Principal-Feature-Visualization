@@ -59,10 +59,11 @@ Apart from different things we tried this technique on various types of CNN mode
 PFV on Alexnet| PFV on Wide ResNet
 :-------------------------:|:-------------------------:
 ![](https://github.com/abhinav0000004/Principal-Feature-Visualization/blob/main/Results/VariousModels/alexnet.JPG)  |  ![](https://github.com/abhinav0000004/Principal-Feature-Visualization/blob/main/Results/VariousModels/wide%20resnet.JPG)
-Credit to person image: https://en.wikipedia.org/wiki/Pierre_Person
+
 
 More can be found [here](https://github.com/abhinav0000004/Principal-Feature-Visualization/tree/main/Results/VariousModels) .
-
+Credit to car image: https://www.wired.com/
+Credit to person image: https://en.wikipedia.org/wiki/Pierre_Person
 **Here are some of unexpected results:**
 
 Model fails to identify objects like table,chair,sofa,etc.
